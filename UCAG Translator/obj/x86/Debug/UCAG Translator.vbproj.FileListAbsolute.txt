@@ -1,0 +1,9 @@
+d:\data\my documents\visual studio 2010\Projects\UCAG Translator\UCAG Translator\bin\Debug\UCAG Translator.exe
+d:\data\my documents\visual studio 2010\Projects\UCAG Translator\UCAG Translator\bin\Debug\UCAG Translator.pdb
+d:\data\my documents\visual studio 2010\Projects\UCAG Translator\UCAG Translator\bin\Debug\UCAG Translator.xml
+d:\data\my documents\visual studio 2010\Projects\UCAG Translator\UCAG Translator\obj\x86\Debug\UCAG_Translator.Form1.resources
+d:\data\my documents\visual studio 2010\Projects\UCAG Translator\UCAG Translator\obj\x86\Debug\UCAG_Translator.Resources.resources
+d:\data\my documents\visual studio 2010\Projects\UCAG Translator\UCAG Translator\obj\x86\Debug\UCAG Translator.vbproj.GenerateResource.Cache
+d:\data\my documents\visual studio 2010\Projects\UCAG Translator\UCAG Translator\obj\x86\Debug\UCAG Translator.exe
+d:\data\my documents\visual studio 2010\Projects\UCAG Translator\UCAG Translator\obj\x86\Debug\UCAG Translator.xml
+d:\data\my documents\visual studio 2010\Projects\UCAG Translator\UCAG Translator\obj\x86\Debug\UCAG Translator.pdb
